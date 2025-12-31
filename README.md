@@ -33,6 +33,8 @@ Suggest an Indian stock portfolio for ₹2 lakh for a medium-risk investor.
 
 **Response:**  
 The model generates a diversified portfolio with sectoral balance, rationale, and capital allocation tailored to the given constraints.
+<img width="1196" height="532" alt="Screenshot 2025-12-31 233232" src="https://github.com/user-attachments/assets/baa25324-37b9-4700-939d-b6b398096527" />
+
 
 ---
 
